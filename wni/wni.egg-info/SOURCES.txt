@@ -1,0 +1,9 @@
+README.txt
+setup.py
+wni.py
+wni.egg-info/PKG-INFO
+wni.egg-info/SOURCES.txt
+wni.egg-info/dependency_links.txt
+wni.egg-info/entry_points.txt
+wni.egg-info/requires.txt
+wni.egg-info/top_level.txt
