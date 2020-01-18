@@ -14,7 +14,7 @@ How to install wni:
 
 Now you can simply type ```wni --help``` to check.
 
-How to run the host as local machine:
+How to run the server on your own local machine (to setup a local instance of wni, considered safer, since right now has some security concerns):
 1. Download the ../server/ directory on your local pc.
 2. Run ```python3 main.py``` in ../server/ directory.
 3. Now use all the commands of ```wni``` with the flag ```-dev``` to connect to the localhost:8080 instead of the the prod version
